@@ -1,0 +1,78 @@
+숫자형
+int num=10 ->자바
+var num=10 -> 자바스크립트
+
+변수 선언 방법
+var 변수이름 ='값'
+var userid='sky123'
+var number= 10
+
+문자형
+char ch= 'a' ->자바스크립트
+striong pwd= 123456
+
+
+t =true
+
+&& 연산잔- 논리곱, 교집합
+T && T -> T 
+T && F -> F
+F && T -> F
+F && F -> F
+
+|| 연산자- 논리합, 합집합
+두조건중 한개만 참이어도 참
+
+T || T -> T 
+T || F -> T
+F || T -> T
+F || F -> F 
+
+!연산자 -논리 부정
+! T -> F
+! F
+
+산술연산(증감연산)
+비교연산(논리연산)-조건연산(삼항연산)
+(조건식)? true : false
+
+parselnt(숫자, 문자) ->정수로 변환
+parseFloat(숫자, 문자)-> 실수로 변환
+
+입력 prompt()
+커맨드팡 
+
+제어 control 조건문, 반복문
+
+다중 조건문
+if(조건){//조건=true 실행문}
+else if(조건2){실행문}
+else{//조건1,조건2가 모두 false 실행문}
+
+반복문
+while(조건식){실행문}
+
+무한반복문
+while(true){
+    if 문 
+    break;
+ }
+
+조건 반복문
+key
+
+object- 가장 큰 자료형 (바이트가 크다)
+숫자,문자열,부울형, null, array(배열)
+
+반복문
+
+조건문
+(switch~case)
+switch(변수){
+case 값 1
+break
+case 값2
+break
+default
+break
+}
