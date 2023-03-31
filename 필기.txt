@@ -76,3 +76,32 @@ break
 default
 break
 }
+
+객체.함수()
+document.getElementByld("id이름") #넣지않음
+
+함수(function, method)
+기능-입력, 출력, 사칙연산
+
+function 함수이름(){}
+
+-브라우저 실행시 함수 호출
+-버튼(태그)를 클릭하면 호출
+
+배열(array)
+-여러 개의 연속적인 값을 저장하는 자료형
+
+요소추가
+numbers.push(10) 맨뒤
+numbers.pop() 맨뒤
+요소삭제
+numbers.unshift() 맨앞
+numbers.shift() 맨앞
+
+특정한 위치 추가 삭제
+splice(index, 삭제개수)
+
+
+배열 객체 함수
+
+특정한 문자열의 첫번째 위치를 반환
