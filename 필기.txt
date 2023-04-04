@@ -105,3 +105,39 @@ splice(index, 삭제개수)
 배열 객체 함수
 
 특정한 문자열의 첫번째 위치를 반환
+
+
+하나의 키가 2가지 기능=Toggle (토글)
+
+burron onclick = showHide()
+function showHide()
+    let sw = 0
+if(조건식){
+    숨기기
+    sw=1
+}else{
+    보이기
+    sw =false
+}
+
+배열의 복사
+let odd
+//let arr = [] 빈배열
+let arr = new Array(5)
+arr = add
+
+Math 객체
+예 Math.round(2.54, 1)
+Date 객체
+const today = new Date()
+
+사용자 함수
+funtion 함수이름(){}
+funtion showHide
+사용자 객체
+function showHide 
+
+객체 1개 json(xml-> json)
+let book = {
+    "title": '반응형 웹'
+}
