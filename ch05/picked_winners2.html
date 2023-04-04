@@ -44,9 +44,13 @@
             for(let i=0; i<winner.length; i++){
                 let pickedOne = Math.floor(Math.random()*member+1);
                 winner[i]=pickedOne; //당첨된 1개 번호를 배열에 저장
+              
                 for(let j=0; j<i; j++){
                     if(winner[j] == winner[i]){
+                       
                         i--;
+                        console.log("중복번호: " + winner[i])
+                        console.log("중복번호: " + winner[j])
                     }
                 }
 

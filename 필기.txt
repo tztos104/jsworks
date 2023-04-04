@@ -141,3 +141,32 @@ function showHide
 let book = {
     "title": '반응형 웹'
 }
+
+Toggle 기능
+let state =true //상태변수
+if(state){
+    실행
+    state= false
+}else{
+    실행2 
+    state=true
+}
+
+객체
+객체 1개
+let person = {name: "김하늘", phone:"010-1234-5678"}
+let person = ["김", "이", "박"]
+
+객체 여러개-클래스(생성자 함수)
+function person(name, phon)
+this.name =name
+this.phon = phone
+
+let person = new Person("안재훈", "010~")
+
+선택자 id="sky"                   선택자 class="sky"
+getElementById("sky")             getElementById("sky")
+querySelector("#sky")             querySelector(".sky")
+querySelectorAll("#sky")          querySelectorAll(".sky")
+
+addEventListener() 
