@@ -170,3 +170,22 @@ querySelector("#sky")             querySelector(".sky")
 querySelectorAll("#sky")          querySelectorAll(".sky")
 
 addEventListener() 
+
+appendChild
+createTextNode
+
+window.onload()-브라우저 실행될대 기능(환경)
+
+BOM-Browser of model (window 객체)
+DOM-Document of model (document 객체)
+
+폼에서 자바스크립트로 처리
+checkBox.checked=true
+주문정보와 배송정보가 같은때 자동입력
+
+정규 표현식
+new RegExp()
+
+id-> let id= document.getElementById("~")
+
+name ->let id= document.regForm.~~
